@@ -1,1 +1,1 @@
-http://codingbat.com/java
+http://codingbat.com/progress-graphs.html
